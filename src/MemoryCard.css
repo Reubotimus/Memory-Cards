@@ -1,0 +1,8 @@
+.memory-card:hover {
+    background-color: #444444;
+}
+.memory-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
